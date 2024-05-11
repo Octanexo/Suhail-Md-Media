@@ -19,10 +19,10 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail <https://github.com/SuhailTechInfo>
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-   * @infoription : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * project name:  BLACK_VIGO 
+   * @author : ASIM MUNEER <https://www.instagram.com/sadistic_xc?igsh=M2xreHJlNzQyZGI1>
+   * watsapp gc: https://chat.whatsapp.com/KCGNpk4Vs7EAO3F8NflXzF
+   * @infoription :💀 ,PROPERTY OF ASIM MUNEER .
    * @version 1.2.2 
 *
    * Licensed under the  GPL-3.0 License;
@@ -45,20 +45,20 @@ CURRENTLY RUNNING ON BETA VERSION!!
 const { smd, Config,smdBuffer,  prefix } = require('../lib')
 
 
-var surl = 'https://github.com/SuhailTechInfo/Suhail-Md' // Source URL
-const number = '923184474176'
-var name = ' Suhail Tech'
+var surl = 'https://www.instagram.com/sadistic_xc?igsh=M2xreHJlNzQyZGI1' // Source URL
+const number = 923140152133 '
+var name = ' Asim'
 var body = '𝑇𝛩𝑈𝐶𝛨 𝛨𝛯𝑅𝛯'
-var image = 'https://telegra.ph/file/1e60489705c851f74b55e.jpg'
+var image = 'https://telegra.ph/file/3c9d93cc2d2d69e847578.png'
 let text = `╭═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄
 │       「 𝗠𝗬 𝗜𝗡𝗧𝗥𝗢 」
-│ Name      : sυнαɪʟ ᴛᴇᴄʜ ɪиғօ
-│ Place       : ʟαнᴏʀᴇ ᴘᴋ
-│ Gender    :  ᴍᴀʟᴇ
-│ Age          : 22_
-│ Phone     : wa.me/923184474176
-│ Youtube   : Youtube.com/c/SuhailTechInfo
-│ Status     : ɢᴀᴍᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ
+│ Name      : NOT ASIM MUNEER ɪиғօ
+│ Place       : ISLAMABAD 
+│ Gender    :  MALE
+│ Age          : 18_
+│ Phone     : https://wa.me/923140152133
+│ Insta   : https://www.instagram.com/sadistic_xc?igsh=M2xreHJlNzQyZGI1
+│ Status     : Single mingle 
 ╰═══ ━ ━ ━ ━ • ━ ━ ━ ━ ═══♡᭄`
 
 
